@@ -1,2 +1,2 @@
-# minigame0001
-personal minigame0001
+# miniprogram001
+personal miniprogram0001
