@@ -1,0 +1,10 @@
+<image class="image" src="../../image/OrangeGarden.jpg" mode="widthFix"></image>
+<view class="logoText">橘子园：我们是一群有爱的人！</view>
+<view class="body">
+  <view class="title1">我们是谁？</view>
+  <view>我们是..............................................</view>
+  <view class="title1">我们在做什么？</view>
+  <view>我们在做..............................................</view>
+  <view class="title1">加入我们</view>
+  <view>联系方式..............................................</view>
+</view>
