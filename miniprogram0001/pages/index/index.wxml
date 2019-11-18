@@ -8,3 +8,10 @@
   <view class="title1">加入我们</view>
   <view>联系方式..............................................</view>
 </view>
+
+<view class="video">
+  <video id="myVideo" src="{{videoSrc}}"></video>
+  <view class="action">
+    <!--  <button bindtap="getVideo">获取视频</button>  -->
+  </view>
+</view>
